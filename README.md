@@ -27,6 +27,9 @@ This repository should eventually contain the famous "Hello World" program in al
 
 ## Languages Covered
 
+- [x] **ADA**
+An ADA program source text file contains the source code integrated into an ADA application that was created by a developer using the ADA programming language.
+
 - [x] **ABAP**
 ABAP is a high-level programming language created by the German software company SAP SE. It is currently positioned, alongside Java, as the language for programming the SAP Application Server, which is part of the NetWeaver platform for building business applications.
 
@@ -205,6 +208,8 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 - [x] **Whitespace**
 
 Whitespace is an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The language consists of spaces, tabs and linefeeds.
+- [x] **Xml**
+XML stands for eXtensible Markup Language and it was designed to store and transport data and also readable for both humans and machines.
 
 ## Contributors
 
